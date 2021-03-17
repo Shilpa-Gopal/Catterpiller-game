@@ -1,2 +1,2 @@
 # Catterpiller-game
-Catterpiller Game using coming soon
+Catterpiller Game using Python coming soon
